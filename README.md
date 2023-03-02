@@ -1,9 +1,10 @@
 # Samples
 
-**project-1**
+To be done:
 
-1. dummy platform device driver
-
-**project-2**
-
-1. dummy platform device driver
+- sample-ueventd
+- sample-netlink
+- sample-dma-with-smmu
+- sample-rpmsg
+- sample-call-to-el3
+- sample-call-to-tee
