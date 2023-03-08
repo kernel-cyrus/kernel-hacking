@@ -1,10 +1,10 @@
-# Samples
+# Kernel Hackings
 
 To be done:
 
-- sample-ueventd
-- sample-netlink
-- sample-dma-with-smmu
-- sample-rpmsg
-- sample-call-to-el3
-- sample-call-to-tee
+- hacking001-ueventd
+- hacking002-netlink
+- hacking003-dma-with-smmu
+- hacking004-rpmsg
+- hacking005-call-to-el3
+- hacking006-call-to-tee
