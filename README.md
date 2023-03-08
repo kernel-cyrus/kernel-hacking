@@ -1,10 +1,10 @@
-# Kernel Hackings
+# Kernel Hacking Tests
 
 To be done:
 
-- hacking001-ueventd
-- hacking002-netlink
-- hacking003-dma-with-smmu
-- hacking004-rpmsg
-- hacking005-call-to-el3
-- hacking006-call-to-tee
+- hacking-001-ueventd
+- hacking-002-netlink
+- hacking-003-dma_with_smmu
+- hacking-004-rpmsg
+- hacking-005-call_to_el3
+- hacking-006-call_to_el2
